@@ -1,2 +1,2 @@
 # cities.bedrock-land.su
-Сайт с гороадми приватного сервера BedrockLand
+Сайт с городaми приватного сервера BedrockLand
